@@ -14,7 +14,6 @@
 ```
 git clone https://gitlab.com/anhlta/odoo-fitdnu.git
 ```
-
 ```
 git checkout cntt15_03
 ```
