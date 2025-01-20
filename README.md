@@ -15,11 +15,12 @@
 git clone https://gitlab.com/anhlta/odoo-fitdnu.git
 ```
 ```
-git checkout cntt15_03
-```
-```
 cd odoo-fitdnu
 ```
+```
+git checkout cntt15_03
+```
+
 
 ## 1.2. cài đặt các thư viện cần thiết
 
